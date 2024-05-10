@@ -1,0 +1,24 @@
+# Recipemaps
+recipemap.greenhouse.name=温室
+recipemap.mission_control_station.name=ミッションコントロールステーション
+recipemap.space_shipyard_control_center.name=宇宙造船所コントロールセンター
+recipemap.space_construction_depot.name=宇宙建設デポ
+
+# MetaTileEntities
+ejg.machine.greenhouse.name=温室
+ejg.machine.greenhouse.tooltip=植物成長シミュレーター
+ejg.machine.mission_control_station.name=ミッションコントロールステーション
+ejg.machine.mission_control_station.tooltip=鉱石やエイリアンのアーティファクト/テクノロジーを獲得するための宇宙ミッションを完了するためのステーション。
+ejg.machine.space_shipyard_control_center.name=宇宙造船所コントロールセンター
+ejg.machine.space_shipyard_control_center.tooltip=宇宙船を建造する造船所をコントロールする
+ejg.machine.space_construction_depot.name=宇宙建設デポ
+ejg.machine.space_construction_depot.tooltip=宇宙造船所や宇宙港の建設に使われる。
+
+
+
+item.ejg.better_plastic_circuit_board.name=プラスチック製回路基板 2.0
+item.ejg.better_epoxy_circuit_board.name=エポキシ樹脂回路基板 2.0
+item.ejg.better_fiber_reinforced_circuit_board.name=繊維強化回路基板 2.0
+item.ejg.better_multi_layer_fiber_reinforced_circuit_board.name=複層繊維強化回路基板 2.0
+
+
